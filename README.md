@@ -1,6 +1,5 @@
-## Hi there, I'm Sazzad! 👋
-
-I'm a passionate data enthusiast from Bangladesh currently pursuing a Bachelor's degree in Applied Mathematics at the University of Dhaka. My interests lie in the intersection of mathematics, statistics, and computer science, particularly in the field of data science and machine learning.
+# Md. Sazzad Abrar Saad 👋
+**Applied Mathematics | Data Science & AI Aspirant**
 
 ### About Me
 
@@ -16,6 +15,6 @@ I'm a passionate data enthusiast from Bangladesh currently pursuing a Bachelor's
 
 ### My GitHub Stats
 
-[![Sazzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Sazzad-Abrar&show_icons=true&theme=radical)](https://github.com/Muhammad-Sazzad-Abrar)
+[![Sazzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-sazzad-abrar&show_icons=true&theme=radical)](https://github.com/Muhammad-Sazzad-Abrar)
 
-Thanks for stopping by! 😊
+Thanks for stopping by!
